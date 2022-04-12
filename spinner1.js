@@ -36,7 +36,7 @@ setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 1700);
 
-// Comment out incase you wanna go to the next line
+// Uncomment out incase you wanna go to the next line
 // setTimeout(() => {
 //   process.stdout.write('\n');
 // }, 1900);
